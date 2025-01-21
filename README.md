@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Tech
 - 🌱 I’m currently learning ... Flask
 - 💞️ I’m looking to collaborate on ... Data Processing
-- 📫 How to reach me ... karidiprasanth@live.com
+- 📫 How to reach me ... karidiprashanth@live.com
 
 <!---
 karidiprashanth/karidiprashanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
